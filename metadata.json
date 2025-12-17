@@ -1,0 +1,7 @@
+{
+  "name": "AI Language Practice",
+  "description": "A language learning web app offering AI-powered speaking practice with multimodal feedback.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
